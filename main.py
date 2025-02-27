@@ -7,7 +7,7 @@ mouse.visible = False
 
 # Load Sounds
 npc_appear_sound = Audio('assets/scare_sound.mp3', autoplay=False)
-footstep_sound = Audio('assets/footstep.wav', autoplay=False, loop=False)
+footstep_sound = Audio('assets/footstep.mp3', autoplay=False, loop=False)
 jumpscare_sound = Audio('assets/jumpscare.mp3', autoplay=False)
 
 # Jumpscare Screen (Hidden by Default)
